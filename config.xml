@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="itunza.wudan.mobile" version="0.0.7" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>Itunza</name>
+<widget id="Etunza.wudan.mobile" version="0.0.7" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Etunza</name>
     <description>
-        Mobile Client for Itunza
+        Mobile Client for Etunza
     </description>
     <author email="info@wudan.co.ke" href="http://wudan.co.ke">
         WUDAN TECHNOLOGIES LTD 
