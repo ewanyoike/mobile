@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="io.frappe.mobile" version="0.0.7" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>ERPNext</name>
+<widget id="itunza.wudan.mobile" version="0.0.7" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Itunza</name>
     <description>
-        Mobile Client for ERPNext
+        Mobile Client for Itunza
     </description>
-    <author email="hello@erpnext.com" href="https://erpnext.com">
-        Frappe Technologies Private Limited
+    <author email="info@wudan.coke" href="http://wudan.co.ke">
+        WUDAN TECHNOLOGIES LTD 
     </author>
     <content src="index.html" />
     <plugin name="cordova-plugin-whitelist" version="1" />
